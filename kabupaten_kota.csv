@@ -1,0 +1,515 @@
+"id","name"
+"11.01",Aceh Selatan
+"11.02",Aceh Tenggara
+"11.03",Aceh Timur
+"11.04",Aceh Tengah
+"11.05",Aceh Barat
+"11.06",Aceh Besar
+"11.07",Pidie
+"11.08",Aceh Utara
+"11.09",Simeulue
+"11.10",Aceh Singkil
+"11.11",Bireuen
+"11.12",Aceh Barat Daya
+"11.13",Gayo Lues
+"11.14",Aceh Jaya
+"11.15",Nagan Raya
+"11.16",Aceh Tamiang
+"11.17",Bener Meriah
+"11.18",Pidie Jaya
+"11.71",Kota Banda Aceh
+"11.72",Kota Sabang
+"11.73",Kota Lhokseumawe
+"11.74",Kota Langsa
+"11.75",Kota Subulussalam
+"12.01",Tapanuli Tengah
+"12.02",Tapanuli Utara
+"12.03",Tapanuli Selatan
+"12.04",Nias
+"12.05",Langkat
+"12.06",Karo
+"12.07",Deli Serdang
+"12.08",Simalungun
+"12.09",Asahan
+"12.10",Labuhanbatu
+"12.11",Dairi
+"12.12",Toba
+"12.13",Mandailing Natal
+"12.14",Nias Selatan
+"12.15",Pakpak Bharat
+"12.16",Humbang Hasundutan
+"12.17",Samosir
+"12.18",Serdang Bedagai
+"12.19",Batu Bara
+"12.20",Padang Lawas Utara
+"12.21",Padang Lawas
+"12.22",Labuhanbatu Selatan
+"12.23",Labuhanbatu Utara
+"12.24",Nias Utara
+"12.25",Nias Barat
+"12.71",Kota Medan
+"12.72",Kota Pematangsiantar
+"12.73",Kota Sibolga
+"12.74",Kota Tanjung Balai
+"12.75",Kota Binjai
+"12.76",Kota Tebing Tinggi
+"12.77",Kota Padangsidimpuan
+"12.78",Kota Gunungsitoli
+"13.01",Pesisir Selatan
+"13.02",Solok
+"13.03",Sijunjung
+"13.04",Tanah Datar
+"13.05",Padang Pariaman
+"13.06",Agam
+"13.07",Lima Puluh Kota
+"13.08",Pasaman
+"13.09",Kepulauan Mentawai
+"13.10",Dharmasraya
+"13.11",Solok Selatan
+"13.12",Pasaman Barat
+"13.71",Kota Padang
+"13.72",Kota Solok
+"13.73",Kota Sawahlunto
+"13.74",Kota Padang Panjang
+"13.75",Kota Bukittinggi
+"13.76",Kota Payakumbuh
+"13.77",Kota Pariaman
+"14.01",Kampar
+"14.02",Indragiri Hulu
+"14.03",Bengkalis
+"14.04",Indragiri Hilir
+"14.05",Pelalawan
+"14.06",Rokan Hulu
+"14.07",Rokan Hilir
+"14.08",Siak
+"14.09",Kuantan Singingi
+"14.10",Kepulauan Meranti
+"14.71",Kota Pekanbaru
+"14.72",Kota Dumai
+"15.01",Kerinci
+"15.02",Merangin
+"15.03",Sarolangun
+"15.04",Batanghari
+"15.05",Muaro Jambi
+"15.06",Tanjung Jabung Barat
+"15.07",Tanjung Jabung Timur
+"15.08",Bungo
+"15.09",Tebo
+"15.71",Kota Jambi
+"15.72",Kota Sungai Penuh
+"16.01",Ogan Komering Ulu
+"16.02",Ogan Komering Ilir
+"16.03",Muara Enim
+"16.04",Lahat
+"16.05",Musi Rawas
+"16.06",Musi Banyuasin
+"16.07",Banyuasin
+"16.08",Ogan Komering Ulu Timur
+"16.09",Ogan Komering Ulu Selatan
+"16.10",Ogan Ilir
+"16.11",Empat Lawang
+"16.12",Penukal Abab Lematang Ilir
+"16.13",Musi Rawas Utara
+"16.71",Kota Palembang
+"16.72",Kota Pagar Alam
+"16.73",Kota Lubuk Linggau
+"16.74",Kota Prabumulih
+"17.01",Bengkulu Selatan
+"17.02",Rejang Lebong
+"17.03",Bengkulu Utara
+"17.04",Kaur
+"17.05",Seluma
+"17.06",Muko Muko
+"17.07",Lebong
+"17.08",Kepahiang
+"17.09",Bengkulu Tengah
+"17.71",Kota Bengkulu
+"18.01",Lampung Selatan
+"18.02",Lampung Tengah
+"18.03",Lampung Utara
+"18.04",Lampung Barat
+"18.05",Tulang Bawang
+"18.06",Tanggamus
+"18.07",Lampung Timur
+"18.08",Way Kanan
+"18.09",Pesawaran
+"18.10",Pringsewu
+"18.11",Mesuji
+"18.12",Tulang Bawang Barat
+"18.13",Pesisir Barat
+"18.71",Kota Bandar Lampung
+"18.72",Kota Metro
+"19.01",Bangka
+"19.02",Belitung
+"19.03",Bangka Selatan
+"19.04",Bangka Tengah
+"19.05",Bangka Barat
+"19.06",Belitung Timur
+"19.71",Kota Pangkal Pinang
+"21.01",Bintan
+"21.02",Karimun
+"21.03",Natuna
+"21.04",Lingga
+"21.05",Kepulauan Anambas
+"21.71",Kota Batam
+"21.72",Kota Tanjung Pinang
+"31.01",Kepulauan Seribu
+"31.71",Kota Jakarta Pusat
+"31.72",Kota Jakarta Utara
+"31.73",Kota Jakarta Barat
+"31.74",Kota Jakarta Selatan
+"31.75",Kota Jakarta Timur
+"32.01",Bogor
+"32.02",Sukabumi
+"32.03",Cianjur
+"32.04",Bandung
+"32.05",Garut
+"32.06",Tasikmalaya
+"32.07",Ciamis
+"32.08",Kuningan
+"32.09",Cirebon
+"32.10",Majalengka
+"32.11",Sumedang
+"32.12",Indramayu
+"32.13",Subang
+"32.14",Purwakarta
+"32.15",Karawang
+"32.16",Bekasi
+"32.17",Bandung Barat
+"32.18",Pangandaran
+"32.71",Kota Bogor
+"32.72",Kota Sukabumi
+"32.73",Kota Bandung
+"32.74",Kota Cirebon
+"32.75",Kota Bekasi
+"32.76",Kota Depok
+"32.77",Kota Cimahi
+"32.78",Kota Tasikmalaya
+"32.79",Kota Banjar
+"33.01",Cilacap
+"33.02",Banyumas
+"33.03",Purbalingga
+"33.04",Banjarnegara
+"33.05",Kebumen
+"33.06",Purworejo
+"33.07",Wonosobo
+"33.08",Magelang
+"33.09",Boyolali
+"33.10",Klaten
+"33.11",Sukoharjo
+"33.12",Wonogiri
+"33.13",Karanganyar
+"33.14",Sragen
+"33.15",Grobogan
+"33.16",Blora
+"33.17",Rembang
+"33.18",Pati
+"33.19",Kudus
+"33.20",Jepara
+"33.21",Demak
+"33.22",Semarang
+"33.23",Temanggung
+"33.24",Kendal
+"33.25",Batang
+"33.26",Pekalongan
+"33.27",Pemalang
+"33.28",Tegal
+"33.29",Brebes
+"33.71",Kota Magelang
+"33.72",Kota Surakarta
+"33.73",Kota Salatiga
+"33.74",Kota Semarang
+"33.75",Kota Pekalongan
+"33.76",Kota Tegal
+"34.01",Kulon Progo
+"34.02",Bantul
+"34.03",Gunungkidul
+"34.04",Sleman
+"34.71",Kota Yogyakarta
+"35.01",Pacitan
+"35.02",Ponorogo
+"35.03",Trenggalek
+"35.04",Tulungagung
+"35.05",Blitar
+"35.06",Kediri
+"35.07",Malang
+"35.08",Lumajang
+"35.09",Jember
+"35.10",Banyuwangi
+"35.11",Bondowoso
+"35.12",Situbondo
+"35.13",Probolinggo
+"35.14",Pasuruan
+"35.15",Sidoarjo
+"35.16",Mojokerto
+"35.17",Jombang
+"35.18",Nganjuk
+"35.19",Madiun
+"35.20",Magetan
+"35.21",Ngawi
+"35.22",Bojonegoro
+"35.23",Tuban
+"35.24",Lamongan
+"35.25",Gresik
+"35.26",Bangkalan
+"35.27",Sampang
+"35.28",Pamekasan
+"35.29",Sumenep
+"35.71",Kota Kediri
+"35.72",Kota Blitar
+"35.73",Kota Malang
+"35.74",Kota Probolinggo
+"35.75",Kota Pasuruan
+"35.76",Kota Mojokerto
+"35.77",Kota Madiun
+"35.78",Kota Surabaya
+"35.79",Kota Batu
+"36.01",Pandeglang
+"36.02",Lebak
+"36.03",Tangerang
+"36.04",Serang
+"36.71",Kota Tangerang
+"36.72",Kota Cilegon
+"36.73",Kota Serang
+"36.74",Kota Tangerang Selatan
+"51.01",Jembrana
+"51.02",Tabanan
+"51.03",Badung
+"51.04",Gianyar
+"51.05",Klungkung
+"51.06",Bangli
+"51.07",Karangasem
+"51.08",Buleleng
+"51.71",Kota Denpasar
+"52.01",Lombok Barat
+"52.02",Lombok Tengah
+"52.03",Lombok Timur
+"52.04",Sumbawa
+"52.05",Dompu
+"52.06",Bima
+"52.07",Sumbawa Barat
+"52.08",Lombok Utara
+"52.71",Kota Mataram
+"52.72",Kota Bima
+"53.01",Kupang
+"53.02",Timor Tengah Selatan
+"53.03",Timor Tengah Utara
+"53.04",Belu
+"53.05",Alor
+"53.06",Flores Timur
+"53.07",Sikka
+"53.08",Ende
+"53.09",Ngada
+"53.10",Manggarai
+"53.11",Sumba Timur
+"53.12",Sumba Barat
+"53.13",Lembata
+"53.14",Rote Ndao
+"53.15",Manggarai Barat
+"53.16",Nagekeo
+"53.17",Sumba Tengah
+"53.18",Sumba Barat Daya
+"53.19",Manggarai Timur
+"53.20",Sabu Raijua
+"53.21",Malaka
+"53.71",Kota Kupang
+"61.01",Sambas
+"61.02",Mempawah
+"61.03",Sanggau
+"61.04",Ketapang
+"61.05",Sintang
+"61.06",Kapuas Hulu
+"61.07",Bengkayang
+"61.08",Landak
+"61.09",Sekadau
+"61.10",Melawi
+"61.11",Kayong Utara
+"61.12",Kubu Raya
+"61.71",Kota Pontianak
+"61.72",Kota Singkawang
+"62.01",Kotawaringin Barat
+"62.02",Kotawaringin Timur
+"62.03",Kapuas
+"62.04",Barito Selatan
+"62.05",Barito Utara
+"62.06",Katingan
+"62.07",Seruyan
+"62.08",Sukamara
+"62.09",Lamandau
+"62.10",Gunung Mas
+"62.11",Pulang Pisau
+"62.12",Murung Raya
+"62.13",Barito Timur
+"62.71",Kota Palangkaraya
+"63.01",Tanah Laut
+"63.02",Kotabaru
+"63.03",Banjar
+"63.04",Barito Kuala
+"63.05",Tapin
+"63.06",Hulu Sungai Selatan
+"63.07",Hulu Sungai Tengah
+"63.08",Hulu Sungai Utara
+"63.09",Tabalong
+"63.10",Tanah Bumbu
+"63.11",Balangan
+"63.71",Kota Banjarmasin
+"63.72",Kota Banjarbaru
+"64.01",Paser
+"64.02",Kutai Kartanegara
+"64.03",Berau
+"64.07",Kutai Barat
+"64.08",Kutai Timur
+"64.09",Penajam Paser Utara
+"64.11",Mahakam Ulu
+"64.71",Kota Balikpapan
+"64.72",Kota Samarinda
+"64.74",Kota Bontang
+"65.01",Bulungan
+"65.02",Malinau
+"65.03",Nunukan
+"65.04",Tana Tidung
+"65.71",Kota Tarakan
+"71.01",Bolaang Mongondow
+"71.02",Minahasa
+"71.03",Kepulauan Sangihe
+"71.04",Kepulauan Talaud
+"71.05",Minahasa Selatan
+"71.06",Minahasa Utara
+"71.07",Minahasa Tenggara
+"71.08",Bolaang Mongondow Utara
+"71.09",Kepulauan Siau Tagulandang Biaro (Sitaro)
+"71.10",Bolaang Mongondow Timur
+"71.11",Bolaang Mongondow Selatan
+"71.71",Kota Manado
+"71.72",Kota Bitung
+"71.73",Kota Tomohon
+"71.74",Kota Kotamobagu
+"72.01",Banggai
+"72.02",Poso
+"72.03",Donggala
+"72.04",Toli Toli
+"72.05",Buol
+"72.06",Morowali
+"72.07",Banggai Kepulauan
+"72.08",Parigi Moutong
+"72.09",Tojo Una Una
+"72.10",Sigi
+"72.11",Banggai Laut
+"72.12",Morowali Utara
+"72.71",Kota Palu
+"73.01",Kepulauan Selayar
+"73.02",Bulukumba
+"73.03",Bantaeng
+"73.04",Jeneponto
+"73.05",Takalar
+"73.06",Gowa
+"73.07",Sinjai
+"73.08",Bone
+"73.09",Maros
+"73.10",Pangkajene Kepulauan
+"73.11",Barru
+"73.12",Soppeng
+"73.13",Wajo
+"73.14",Sidenreng Rappang
+"73.15",Pinrang
+"73.16",Enrekang
+"73.17",Luwu
+"73.18",Tana Toraja
+"73.22",Luwu Utara
+"73.24",Luwu Timur
+"73.26",Toraja Utara
+"73.71",Kota Makassar
+"73.72",Kota Pare Pare
+"73.73",Kota Palopo
+"74.01",Kolaka
+"74.02",Konawe
+"74.03",Muna
+"74.04",Buton
+"74.05",Konawe Selatan
+"74.06",Bombana
+"74.07",Wakatobi
+"74.08",Kolaka Utara
+"74.09",Konawe Utara
+"74.10",Buton Utara
+"74.11",Kolaka Timur
+"74.12",Konawe Kepulauan
+"74.13",Muna Barat
+"74.14",Buton Tengah
+"74.15",Buton Selatan
+"74.71",Kota Kendari
+"74.72",Kota Bau Bau
+"75.01",Gorontalo
+"75.02",Boalemo
+"75.03",Bone Bolango
+"75.04",Pahuwato
+"75.05",Gorontalo Utara
+"75.71",Kota Gorontalo
+"76.01",Pasangkayu (Mamuju Utara)
+"76.02",Mamuju
+"76.03",Mamasa
+"76.04",Polewali Mandar
+"76.05",Majene
+"76.06",Mamuju Tengah
+"81.01",Maluku Tengah
+"81.02",Maluku Tenggara
+"81.03",Kepulauan Tanimbar (Maluku Tenggara Barat)
+"81.04",Buru
+"81.05",Seram Bagian Timur
+"81.06",Seram Bagian Barat
+"81.07",Kepulauan Aru
+"81.08",Maluku Barat Daya
+"81.09",Buru Selatan
+"81.71",Kota Ambon
+"81.72",Kota Tual
+"82.01",Halmahera Barat
+"82.02",Halmahera Tengah
+"82.03",Halmahera Utara
+"82.04",Halmahera Selatan
+"82.05",Kepulauan Sula
+"82.06",Halmahera Timur
+"82.07",Pulau Morotai
+"82.08",Pulau Taliabu
+"82.71",Kota Ternate
+"82.72",Kota Tidore Kepulauan
+"91.03",Jayapura
+"91.05",Kepulauan Yapen
+"91.06",Biak Numfor
+"91.10",Sarmi
+"91.11",Keerom
+"91.15",Waropen
+"91.19",Supiori
+"91.20",Mamberamo Raya
+"91.71",Kota Jayapura
+"92.02",Manokwari
+"92.03",Fak Fak
+"92.06",Teluk Bintuni
+"92.07",Teluk Wondama
+"92.08",Kaimana
+"92.11",Manokwari Selatan
+"92.12",Pegunungan Arfak
+"93.01",Merauke
+"93.02",Boven Digoel
+"93.03",Mappi
+"93.04",Asmat
+"94.01",Nabire
+"94.02",Puncak Jaya
+"94.03",Paniai
+"94.04",Mimika
+"94.05",Puncak
+"94.06",Dogiyai
+"94.07",Intan Jaya
+"94.08",Deiyai
+"95.01",Jayawijaya
+"95.02",Pegunungan Bintang
+"95.03",Yahukimo
+"95.04",Tolikara
+"95.05",Mamberamo Tengah
+"95.06",Yalimo
+"95.07",Lanny Jaya
+"95.08",Nduga
+"96.01",Sorong
+"96.04",Sorong Selatan
+"96.05",Raja Ampat
+"96.09",Tambrauw
+"96.10",Maybrat
+"96.71",Kota Sorong
